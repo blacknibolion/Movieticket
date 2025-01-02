@@ -9,9 +9,8 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<form asp-controller="Movies" asp-action="Index" method="get">
+<form asp-controller="Movies" asp-action="Index" method="get" enctype="multipart/form-data>
     <p>
-
         <select asp-for="MovieGenre" asp-items="Model.Genres">
             <option value="">All</option>
         </select>
@@ -26,6 +25,9 @@
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Movies![0].Title)
+            </th>
+            <th>
+                Thumbnail
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Movies![0].ReleaseDate)
@@ -48,6 +50,12 @@
             <tr>
                 <td>
                     @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.Image))
+                    {
+                        <img src="@item.Image" width="100" />
+                    }
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.ReleaseDate)

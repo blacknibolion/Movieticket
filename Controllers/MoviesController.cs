@@ -82,41 +82,33 @@ public async Task<IActionResult> Index(string movieGenre, string searchString)
         // POST: Movies/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Genre,Price,ReleaseDate,Rating")] Movie movie)
+[HttpPost]
+[ValidateAntiForgeryToken]
+public async Task<IActionResult> Create(Movie movie, IFormFile? imageFile)
+{
+    if (ModelState.IsValid)
+    {
+        if (imageFile != null && imageFile.Length > 0)
         {
-            if (ModelState.IsValid)
-            {
-                _context.Add(movie);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(movie);
+            using var memoryStream = new MemoryStream();
+            await imageFile.CopyToAsync(memoryStream);
+            movie.Image = $"data:image/jpeg;base64,{Convert.ToBase64String(memoryStream.ToArray())}";
         }
 
-        // GET: Movies/Edit/5
-        public async Task<IActionResult> Edit(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
+        _context.Add(movie);
+        await _context.SaveChangesAsync();
+        return RedirectToAction(nameof(Index));
+    }
+    return View(movie);
+}
 
-            var movie = await _context.Movies.FindAsync(id);
-            if (movie == null)
-            {
-                return NotFound();
-            }
-            return View(movie);
-        }
-
+        
         // POST: Movies/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Genre,Price,ReleaseDate")] Movie movie)
+    
+        public async Task<IActionResult> Edit(int id, Movie movie, IFormFile imageFile)
         {
             if (id != movie.Id)
             {
@@ -127,6 +119,13 @@ public async Task<IActionResult> Index(string movieGenre, string searchString)
             {
                 try
                 {
+                    if (imageFile != null && imageFile.Length > 0)
+                    {
+                        using var memoryStream = new MemoryStream();
+                        await imageFile.CopyToAsync(memoryStream);
+                        movie.Image = $"data:image/jpeg;base64,{Convert.ToBase64String(memoryStream.ToArray())}";
+                    }
+
                     _context.Update(movie);
                     await _context.SaveChangesAsync();
                 }
@@ -145,6 +144,7 @@ public async Task<IActionResult> Index(string movieGenre, string searchString)
             }
             return View(movie);
         }
+
 
         // GET: Movies/Delete/5
         public async Task<IActionResult> Delete(int? id)
