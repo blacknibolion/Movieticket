@@ -1,8 +1,13 @@
-﻿@{
+﻿@model MvcMovie.Models.MovieGenreViewModel
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Rent your favorite cartoons and anime tickets at Movie Ticket</h1>
-    <p><a href="https://learn.microsoft.com/aspnet/core">Check our library</a>.</p>
+    <h1 class="display-4-bold">Relive your <span class="text-warning">childhood</span> with all the <span style="color:blueviolet">cool movies you missed</span></h1>
+    <p>Will you <a asp-controller="Movies" action="index" style="color: blueviolet; font-weight: bold;">Checkout our library</a>.</p>
+</div>
+<div class="container-fluid">
+   
 </div>

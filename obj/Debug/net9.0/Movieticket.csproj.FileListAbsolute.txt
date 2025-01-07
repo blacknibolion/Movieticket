@@ -270,10 +270,12 @@ C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\Movieticket.c
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\Movieticket.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\Movieticket.RazorAssemblyInfo.cache
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\Movieticket.RazorAssemblyInfo.cs
+C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\Movieticket.sourcelink.json
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\scopedcss\bundle\Movieticket.styles.css
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\scopedcss\projectbundle\Movieticket.bundle.scp.css
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\compressed\ock9xm9z6l-b9sayid5wm.gz
+C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\compressed\oxn225yfld-lyhymhtozh.gz
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\compressed\ud0fdf20x4-xtxxf3hu2r.gz
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\compressed\b59jsqqbou-bqjiyaj88i.gz
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\compressed\3f5h2uz3wx-c2jlpeoesf.gz
@@ -351,5 +353,3 @@ C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\refint\Moviet
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\Movieticket.pdb
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\Movieticket.genruntimeconfig.cache
 C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\ref\Movieticket.dll
-C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\Movieticket.sourcelink.json
-C:\Users\Blacknibolion\Documents\repo\Movieticket\obj\Debug\net9.0\compressed\oxn225yfld-lyhymhtozh.gz
