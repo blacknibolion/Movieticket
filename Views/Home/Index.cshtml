@@ -1,83 +1,53 @@
 ﻿@model MvcMovie.Models.MovieGenreViewModel
 
 @{
-
-ViewData["Title"] = "Home Page";
-
+    ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-
-<h1 class="display-4-bold">Relive your <span class="text-warning">childhood</span> with all the <span style="color:blueviolet">cool movies you missed</span></h1>
-
-<p>Will you <a asp-controller="Movies" asp-action="Index" style="color: blueviolet; font-weight: bold;">Checkout our library</a>.</p>
-
+    <h1 class="display-4-bold">
+        Relive your <span class="text-warning">childhood</span> with all the 
+        <span style="color:blueviolet">cool movies you missed</span>
+    </h1>
+    <p>
+        Will you 
+        <a asp-controller="Movies" asp-action="Index" style="color: blueviolet; font-weight: bold;">Checkout our library</a>.
+    </p>
 </div>
 
-<div class="container-fluid">
-
-  <div class="row">
-
-      @if (Model?.Movies != null && Model.Movies.Any())
-
-  {
-
-      foreach (var movie in Model.Movies)
-
-      {
-
-      <div class="col-md-4 mb-4">
-
-          <div class="card shadow-sm">
-
-                    @if (!string.IsNullOrEmpty(movie.Image))
-
-                    {
-
-                    <img src="@movie.Image" class="card-img-top" alt="@movie.Title" style="height: 300px; object-fit: cover;" />
-
-                    }
-
-
-              <div class="card-body">
-
-                  <h5 class="card-title text-truncate">@movie.Title</h5>
-
-                  <p class="card-text text-truncate">
-
-                  Genre: @movie.Genre <br />
-
-                  Rating: @movie.Rating <br />
-
-                  Release Date: @movie.ReleaseDate.ToShortDateString()
-
-                  </p>
-
-                  <a asp-controller="Movies" asp-action="Details" asp-route-id="@movie.Id" class="btn btn-primary btn-sm">Watch now</a>
-
-              </div>
-
-          </div>
-
-      </div>
-
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @if (Model?.Movies != null && Model.Movies.Any())
+        {
+            foreach (var movie in Model.Movies)
+            {
+                <div class="col">
+                    <div class="card shadow-sm h-100">
+                        @if (!string.IsNullOrEmpty(movie.Image))
+                        {
+                            <img src="@movie.Image" class="card-img-top" alt="@movie.Title" style="height: 300px; object-fit: cover;" />
+                        }
+                        <div class="card-body">
+                            <h5 class="card-title text-truncate">@movie.Title</h5>
+                            <p class="card-text">
+                                <span class="d-block">Genre: @movie.Genre</span>
+                                <span class="d-block">Rating: @movie.Rating</span>
+                                <span class="d-block">Release Date: @movie.ReleaseDate.ToShortDateString()</span>
+                            </p>
+                            <a asp-controller="Movies" asp-action="Details" asp-route-id="@movie.Id" class="btn btn-primary btn-sm">Watch now</a>
+                        </div>
+                    </div>
+                </div>
             }
-
-  }
-
-  else
-
-  {
-
-  <div class="col">
-    <img src="https://via.placeholder.com/300x300" class="card-img-top" alt="No image available" />
-
-  <p class="text-center text-muted">No movies available in the database.</p>
-
-  </div>
-
-  }
-
-  </div>
-
+        }
+        else
+        {
+            <div class="col text-center">
+                <img src="https://via.placeholder.com/300x300" class="img-fluid mb-3" alt="No image available" />
+                <p class="text-muted">No movies available in the database.</p>
+            </div>
+        }
+    </div>
 </div>
+
+<p class="text-end">Movies count: @(Model?.Movies?.Count() ?? 0)</p>

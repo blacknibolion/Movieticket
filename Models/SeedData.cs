@@ -19,16 +19,6 @@ public static class SeedData
                 return;   // DB has been seeded
             }
 
-            context.Movies.AddRange(
-                new Movie
-                {
-                    Title = "When Harry Met Sally",
-                    ReleaseDate = DateTime.Parse("1989-1-11"),
-                    Genre = "Romantic Comedy",
-                    Rating = "R",
-                    Price = 7.99M
-                }
-            );
             context.SaveChanges();
         }
     }

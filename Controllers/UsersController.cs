@@ -65,6 +65,28 @@ namespace Movieticket.Controllers
             return View(user);
         }
 
+        
+        //Image handling
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> UploadImage(IFormFile? UserImage)
+        {
+            if(ModelState.IsValid)
+            {
+              if (UserImage != null && UserImage.Length > 0)
+            {
+                using var memoryStream = new MemoryStream();
+                await UserImage.CopyToAsync(memoryStream);
+                return Content($"data:image/jpeg;base64,{Convert.ToBase64String(memoryStream.ToArray())}");
+            }   
+
+            _context.Add(UserImage);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+            }
+           
+            return View(UserImage);
+        }
         // GET: Users/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

@@ -9,4 +9,5 @@ public class MovieGenreViewModel
     public string? MovieGenre { get; set; }
     public string? SearchString { get; set; }
     public List<Movie>? Movies { get; set; }
+    public IEnumerable<Movie>? MoviesList { get; set; }
 }

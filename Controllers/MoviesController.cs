@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
 using MvcMovie.Models;
-//using MovieGenreViewModel.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace Movieticket.Controllers
 {
