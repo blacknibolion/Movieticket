@@ -5,6 +5,9 @@ namespace MvcMovie.Models;
 
 public class User{
 
+    [Key]
+    public int Id { get; set; }
+
     [StringLength(20)]
     [Required]
     public string? UserName {get;set;}
@@ -22,6 +25,9 @@ public class User{
     [StringLength(16)]
     [Required]
     private string? Password {get; set;}
+
+        public string? Image { get; set; }
+
 
 
 }

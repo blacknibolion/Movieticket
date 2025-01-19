@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BAWoSmfkSo2j4i907TIlnYFvVTyQuglqdLCPMsSQSQQ=",
+  "Hash": "EmyeG15Nea5RPgi56npFoEB4sglG5IlwB71BzO92mpY=",
   "Source": "Movieticket",
   "BasePath": "_content/Movieticket",
   "Mode": "Default",
@@ -710,12 +710,12 @@
       "OriginalItemSpec": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-smff1sbu1j.gz",
       "SourceId": "Movieticket",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Movieticket",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=smff1sbu1j}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -724,8 +724,8 @@
       "RelatedAsset": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "33qm4mistb",
+      "Integrity": "j+kniG/LcBl7pKNfU7suJ/9Bc2lNTkj27fTjucTxhhQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "smff1sbu1j",
+      "Integrity": "5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1445,6 +1445,174 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\aladin.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/aladin#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d4mt4gzrnk",
+      "Integrity": "wzZTn1IkJh+TuRCFuCeG+G+ln+9rjvjAxW4st0yJqvU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\aladin.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\bleach twya.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/bleach twya#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gndxvjbwza",
+      "Integrity": "pOHq18AEy7Xr1GyQ6sQdozrE3AfaH8mGrppnrkd3U1Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bleach twya.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\chainsawman.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/chainsawman#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5o79f4ycxk",
+      "Integrity": "61FCutwRLS6QEg5nO6kL+YoSkI4HeyxsHFNOr9SX/zs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chainsawman.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Dexter'sLab.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/Dexter'sLab#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5vsvmzv5a3",
+      "Integrity": "4RUf1T6ioIxo1SQtgSWUMiYVb/kmbv6T4xHzNbMTNZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Dexter'sLab.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\hercules.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/hercules#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1mada41tvs",
+      "Integrity": "+aDfQ1a5mhEPEFYFaSpc/Wq2tIgyRDIw3cbVzvH5FeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hercules.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\jujutsukaisen 0.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/jujutsukaisen 0#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jxeoqgcnao",
+      "Integrity": "aYRT85SEXY/ZomhKQVSPQLua97663P+psUvMMZ+HNvs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jujutsukaisen 0.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\jujutsukaisen.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/jujutsukaisen#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ae26hk2mt1",
+      "Integrity": "Xo16Bq6GCLeJuwaW1mVKSEqIb8ahMpJCmzIhkDHm1Ag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jujutsukaisen.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\lionking.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/lionking#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j33fccbcal",
+      "Integrity": "kVazaKuo1DTazJrUpscA2yU0JTkWpeNMLDSjLrNDmms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lionking.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\logo.png",
       "SourceId": "Movieticket",
       "SourceType": "Discovered",
@@ -1464,6 +1632,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Naruto shipuden.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/Naruto shipuden#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ukj65uqrhr",
+      "Integrity": "YpqWf29sfEvOt9nwstahEqKpD2cDUVSYyIksWs3YQo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Naruto shipuden.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\One Piece.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/One Piece#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2x3h8v3nhq",
+      "Integrity": "6v3OmZk22fm7h0FDZF9CGujr9Co8DmlRsVuk9aZOdHc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\One Piece.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\pocahontas.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/pocahontas#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc040hjuud",
+      "Integrity": "zG4zw/UW1jwB2tW1gLWaYM3uupJBbiPYeHIbclxvFps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pocahontas.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Psycho pass.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/Psycho pass#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4cavck5f4s",
+      "Integrity": "7E0sKR5AANG7uNz5VoYyFs79LSlr/QIyohN2fqkW9HQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Psycho pass.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\X-men 97.jpeg",
+      "SourceId": "Movieticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\",
+      "BasePath": "_content/Movieticket",
+      "RelativePath": "images/X-men 97#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "68cje1yz72",
+      "Integrity": "WukeJ4YiM3ms6nKww7M8HndW/KyfTSlW4SFSxriWaaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\X-men 97.jpeg"
     },
     {
       "Identity": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\js\\site.js",
@@ -2749,13 +3022,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-smff1sbu1j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002288329519"
         }
       ],
       "ResponseHeaders": [
@@ -2765,19 +3038,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "436"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"j+kniG/LcBl7pKNfU7suJ/9Bc2lNTkj27fTjucTxhhQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:40:34 GMT"
+          "Value": "Fri, 17 Jan 2025 21:26:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2793,26 +3066,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2822,7 +3087,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1050"
         },
         {
           "Name": "Content-Type",
@@ -2830,11 +3095,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:40:34 GMT"
+          "Value": "Fri, 17 Jan 2025 21:26:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-smff1sbu1j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j+kniG/LcBl7pKNfU7suJ/9Bc2lNTkj27fTjucTxhhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 21:26:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j+kniG/LcBl7pKNfU7suJ/9Bc2lNTkj27fTjucTxhhQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.smff1sbu1j.css",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-smff1sbu1j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002288329519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j+kniG/LcBl7pKNfU7suJ/9Bc2lNTkj27fTjucTxhhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 21:26:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "smff1sbu1j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.smff1sbu1j.css",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 21:26:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2844,7 +3254,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "smff1sbu1j"
         },
         {
           "Name": "label",
@@ -2852,13 +3262,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-5L3M6PfStUsBbBxT9m1nTJHxlbjn48orwYAn+VidSV4="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-b9sayid5wm.gz",
+      "Route": "css/site.smff1sbu1j.css.gz",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-smff1sbu1j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2867,7 +3277,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "436"
         },
         {
           "Name": "Content-Type",
@@ -2875,11 +3285,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"j+kniG/LcBl7pKNfU7suJ/9Bc2lNTkj27fTjucTxhhQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:40:34 GMT"
+          "Value": "Fri, 17 Jan 2025 21:26:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2897,7 +3307,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "smff1sbu1j"
         },
         {
           "Name": "label",
@@ -2905,144 +3315,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:40:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:40:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\obj\\Debug\\net9.0\\compressed\\ock9xm9z6l-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:40:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-j+kniG/LcBl7pKNfU7suJ/9Bc2lNTkj27fTjucTxhhQ="
         }
       ]
     },
@@ -3345,6 +3618,662 @@
       ]
     },
     {
+      "Route": "images/aladin.d4mt4gzrnk.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\aladin.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wzZTn1IkJh+TuRCFuCeG+G+ln+9rjvjAxW4st0yJqvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4mt4gzrnk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/aladin.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wzZTn1IkJh+TuRCFuCeG+G+ln+9rjvjAxW4st0yJqvU="
+        }
+      ]
+    },
+    {
+      "Route": "images/aladin.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\aladin.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wzZTn1IkJh+TuRCFuCeG+G+ln+9rjvjAxW4st0yJqvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wzZTn1IkJh+TuRCFuCeG+G+ln+9rjvjAxW4st0yJqvU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bleach twya.gndxvjbwza.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\bleach twya.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pOHq18AEy7Xr1GyQ6sQdozrE3AfaH8mGrppnrkd3U1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:07:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gndxvjbwza"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bleach twya.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pOHq18AEy7Xr1GyQ6sQdozrE3AfaH8mGrppnrkd3U1Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/bleach twya.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\bleach twya.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pOHq18AEy7Xr1GyQ6sQdozrE3AfaH8mGrppnrkd3U1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:07:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pOHq18AEy7Xr1GyQ6sQdozrE3AfaH8mGrppnrkd3U1Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/chainsawman.5o79f4ycxk.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\chainsawman.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61FCutwRLS6QEg5nO6kL+YoSkI4HeyxsHFNOr9SX/zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5o79f4ycxk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chainsawman.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-61FCutwRLS6QEg5nO6kL+YoSkI4HeyxsHFNOr9SX/zs="
+        }
+      ]
+    },
+    {
+      "Route": "images/chainsawman.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\chainsawman.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61FCutwRLS6QEg5nO6kL+YoSkI4HeyxsHFNOr9SX/zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-61FCutwRLS6QEg5nO6kL+YoSkI4HeyxsHFNOr9SX/zs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Dexter'sLab.5vsvmzv5a3.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Dexter'sLab.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RUf1T6ioIxo1SQtgSWUMiYVb/kmbv6T4xHzNbMTNZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:13:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5vsvmzv5a3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Dexter'sLab.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4RUf1T6ioIxo1SQtgSWUMiYVb/kmbv6T4xHzNbMTNZA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Dexter'sLab.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Dexter'sLab.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RUf1T6ioIxo1SQtgSWUMiYVb/kmbv6T4xHzNbMTNZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:13:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4RUf1T6ioIxo1SQtgSWUMiYVb/kmbv6T4xHzNbMTNZA="
+        }
+      ]
+    },
+    {
+      "Route": "images/hercules.1mada41tvs.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\hercules.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+aDfQ1a5mhEPEFYFaSpc/Wq2tIgyRDIw3cbVzvH5FeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:05:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1mada41tvs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hercules.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+aDfQ1a5mhEPEFYFaSpc/Wq2tIgyRDIw3cbVzvH5FeM="
+        }
+      ]
+    },
+    {
+      "Route": "images/hercules.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\hercules.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+aDfQ1a5mhEPEFYFaSpc/Wq2tIgyRDIw3cbVzvH5FeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:05:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+aDfQ1a5mhEPEFYFaSpc/Wq2tIgyRDIw3cbVzvH5FeM="
+        }
+      ]
+    },
+    {
+      "Route": "images/jujutsukaisen 0.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\jujutsukaisen 0.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aYRT85SEXY/ZomhKQVSPQLua97663P+psUvMMZ+HNvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:09:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aYRT85SEXY/ZomhKQVSPQLua97663P+psUvMMZ+HNvs="
+        }
+      ]
+    },
+    {
+      "Route": "images/jujutsukaisen 0.jxeoqgcnao.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\jujutsukaisen 0.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aYRT85SEXY/ZomhKQVSPQLua97663P+psUvMMZ+HNvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:09:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxeoqgcnao"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jujutsukaisen 0.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aYRT85SEXY/ZomhKQVSPQLua97663P+psUvMMZ+HNvs="
+        }
+      ]
+    },
+    {
+      "Route": "images/jujutsukaisen.ae26hk2mt1.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\jujutsukaisen.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xo16Bq6GCLeJuwaW1mVKSEqIb8ahMpJCmzIhkDHm1Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:09:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae26hk2mt1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jujutsukaisen.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xo16Bq6GCLeJuwaW1mVKSEqIb8ahMpJCmzIhkDHm1Ag="
+        }
+      ]
+    },
+    {
+      "Route": "images/jujutsukaisen.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\jujutsukaisen.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xo16Bq6GCLeJuwaW1mVKSEqIb8ahMpJCmzIhkDHm1Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:09:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xo16Bq6GCLeJuwaW1mVKSEqIb8ahMpJCmzIhkDHm1Ag="
+        }
+      ]
+    },
+    {
+      "Route": "images/lionking.j33fccbcal.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\lionking.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kVazaKuo1DTazJrUpscA2yU0JTkWpeNMLDSjLrNDmms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:06:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j33fccbcal"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lionking.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kVazaKuo1DTazJrUpscA2yU0JTkWpeNMLDSjLrNDmms="
+        }
+      ]
+    },
+    {
+      "Route": "images/lionking.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\lionking.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kVazaKuo1DTazJrUpscA2yU0JTkWpeNMLDSjLrNDmms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:06:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kVazaKuo1DTazJrUpscA2yU0JTkWpeNMLDSjLrNDmms="
+        }
+      ]
+    },
+    {
       "Route": "images/logo.17zqo8nb6y.png",
       "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\logo.png",
       "Selectors": [],
@@ -3423,6 +4352,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-U2PrSqGDKCDnAh1uYFT2KUM1n0bjpmarbZtBZYF3/+0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Naruto shipuden.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Naruto shipuden.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YpqWf29sfEvOt9nwstahEqKpD2cDUVSYyIksWs3YQo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:08:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YpqWf29sfEvOt9nwstahEqKpD2cDUVSYyIksWs3YQo0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Naruto shipuden.ukj65uqrhr.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Naruto shipuden.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YpqWf29sfEvOt9nwstahEqKpD2cDUVSYyIksWs3YQo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:08:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ukj65uqrhr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Naruto shipuden.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YpqWf29sfEvOt9nwstahEqKpD2cDUVSYyIksWs3YQo0="
+        }
+      ]
+    },
+    {
+      "Route": "images/One Piece.2x3h8v3nhq.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\One Piece.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6v3OmZk22fm7h0FDZF9CGujr9Co8DmlRsVuk9aZOdHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:10:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x3h8v3nhq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/One Piece.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6v3OmZk22fm7h0FDZF9CGujr9Co8DmlRsVuk9aZOdHc="
+        }
+      ]
+    },
+    {
+      "Route": "images/One Piece.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\One Piece.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6v3OmZk22fm7h0FDZF9CGujr9Co8DmlRsVuk9aZOdHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:10:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6v3OmZk22fm7h0FDZF9CGujr9Co8DmlRsVuk9aZOdHc="
+        }
+      ]
+    },
+    {
+      "Route": "images/pocahontas.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\pocahontas.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zG4zw/UW1jwB2tW1gLWaYM3uupJBbiPYeHIbclxvFps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:05:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zG4zw/UW1jwB2tW1gLWaYM3uupJBbiPYeHIbclxvFps="
+        }
+      ]
+    },
+    {
+      "Route": "images/pocahontas.sc040hjuud.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\pocahontas.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zG4zw/UW1jwB2tW1gLWaYM3uupJBbiPYeHIbclxvFps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:05:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc040hjuud"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pocahontas.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zG4zw/UW1jwB2tW1gLWaYM3uupJBbiPYeHIbclxvFps="
+        }
+      ]
+    },
+    {
+      "Route": "images/Psycho pass.4cavck5f4s.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Psycho pass.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7E0sKR5AANG7uNz5VoYyFs79LSlr/QIyohN2fqkW9HQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:10:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4cavck5f4s"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Psycho pass.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7E0sKR5AANG7uNz5VoYyFs79LSlr/QIyohN2fqkW9HQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Psycho pass.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\Psycho pass.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7E0sKR5AANG7uNz5VoYyFs79LSlr/QIyohN2fqkW9HQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:10:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7E0sKR5AANG7uNz5VoYyFs79LSlr/QIyohN2fqkW9HQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/X-men 97.68cje1yz72.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\X-men 97.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WukeJ4YiM3ms6nKww7M8HndW/KyfTSlW4SFSxriWaaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:11:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "68cje1yz72"
+        },
+        {
+          "Name": "label",
+          "Value": "images/X-men 97.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WukeJ4YiM3ms6nKww7M8HndW/KyfTSlW4SFSxriWaaM="
+        }
+      ]
+    },
+    {
+      "Route": "images/X-men 97.jpeg",
+      "AssetFile": "C:\\Users\\Blacknibolion\\Documents\\repo\\Movieticket\\wwwroot\\images\\X-men 97.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WukeJ4YiM3ms6nKww7M8HndW/KyfTSlW4SFSxriWaaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:11:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WukeJ4YiM3ms6nKww7M8HndW/KyfTSlW4SFSxriWaaM="
         }
       ]
     },
